@@ -1,6 +1,6 @@
 - [Astar](#astar)
-  - [Question](#question)
-  - [Specific Process](#specific-process)
+  - [1 Question](#1-question)
+  - [2 Specific Process](#2-specific-process)
     - [Step1. Compute the weights between different nodes](#step1-compute-the-weights-between-different-nodes)
     - [Step2.  Construct nodes information](#step2--construct-nodes-information)
     - [Step3.  Use nodes to build the graph](#step3--use-nodes-to-build-the-graph)
@@ -9,10 +9,10 @@
 
 # Astar
 
-## Question
+## 1 Question
 Shortest path problem solved by A* algorithm
 
-## Specific Process
+## 2 Specific Process
 
 ### Step1. Compute the weights between different nodes
 
